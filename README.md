@@ -36,9 +36,6 @@ npm run prod
 open the http://localhost:8000 and test the 
 
 ## Postman Collection
-https://www.postman.com/jvlcode/workspace/nodejs-ecommerce/collection/19530322-997cf450-820a-4852-bc1f-a93c9072d6ec?action=share&creator=19530322
+(https://web.postman.co/workspace/nodejsapi~61d4ae7f-f611-40d0-98b5-772d16179759/collection/37697083-029b52fa-673a-4ad7-ba53-88793b120d7f?action=share&source=copy-link&creator=37697083&active-environment=0fc3f74f-7990-4da6-b679-37c1cee0036f)
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
